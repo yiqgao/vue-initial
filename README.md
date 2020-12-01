@@ -1,5 +1,5 @@
-# nba-front-project
-This is a project for nba front end, we use Vue as framework.
+# vue-initial
+
 ### Initial project on your machine
 First, we need to install node.js on your machine, you can download it from [Node.js official website](https://nodejs.org/zh-cn/download/), please choose .msi file for x64 platform.
 
