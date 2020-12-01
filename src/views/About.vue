@@ -1,5 +1,12 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div class="sample">{{ sample }}</div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      sample: "This is a sample",
+    };
+  },
+};
+</script>
